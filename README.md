@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kashoes_mobile
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# KaShoes-Mobile-App
+>>>>>>> c98455a1f0139882bc317332edca09361924240d
